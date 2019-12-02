@@ -1,0 +1,33 @@
+div.text {
+	margin-top: -150px;
+	margin-left: 110px;
+	position: relative;
+}
+
+div.link {
+	margin-top: -43px;
+	position: relative;
+    font-size: 17px;
+    background-color: #696969;
+    width: 85px;
+}
+
+h1 {
+	text-align: center;
+	color: green;
+}
+
+p {
+	text-align: left;
+}
+
+p.del {
+	color: white;
+	background-color: #696969;
+	font-size: 20px;
+	text-align: center;
+}
+
+a {
+	color: white;
+}
